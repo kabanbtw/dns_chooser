@@ -11,7 +11,7 @@
 
    ```bash
    git clone https://github.com/kabanbtw/dns_chooser.git
-   cd dns-chooser
+   cd dns_chooser
    ```
 
 2. Сделайте скрипт исполняемым:
