@@ -10,7 +10,7 @@
 1. Скачайте скрипт:
 
    ```bash
-   git clone https://github.com/ТВОЙ-НИК/dns-chooser.git
+   git clone https://github.com/kabanbtw/dns_chooser.git
    cd dns-chooser
    ```
 
