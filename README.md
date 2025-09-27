@@ -48,11 +48,11 @@ Or specify the full path:
 
 - The script performs tests only and does not modify system settings.
 
-## 📬 Contact
+## 🌐 Contact
 
-✉️ Email: epidermis_essential@proton.me
-
-💬 Discord Server: [Join here](https://discord.gg/2bFvWXRS6u)
+For discussions or suggestions, reach out:
+- **Email**: epidermis_essential@proton.me
+- **Inktree**: [here](https://linktr.ee/fastarcher)
 
 ## 📜 License
 
