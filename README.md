@@ -5,7 +5,7 @@ It measures latency and packet loss for a list of DNS servers and outputs a rank
 
 ⚠️ By default, the script only performs tests and does not modify system settings. Any changes must be applied manually via GUI or terminal.
 
-![](https://github.com/kabanbtw/dns_chooser/blob/main/image.png)
+![](https://github.com/fast-archer/dns_chooser/blob/main/image.png)
 
 
 ## 📥 Installation
@@ -13,7 +13,7 @@ It measures latency and packet loss for a list of DNS servers and outputs a rank
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kabanbtw/dns_chooser.git
+   git clone https://github.com/fast-archer/dns_chooser.git
    cd dns_chooser
    ```
 
