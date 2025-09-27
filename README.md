@@ -5,6 +5,9 @@ It measures latency and packet loss for a list of DNS servers and outputs a rank
 
 ⚠️ By default, the script only performs tests and does not modify system settings. Any changes must be applied manually via GUI or terminal.
 
+![](https://github.com/kabanbtw/dns_chooser/blob/main/image.png)
+
+
 ## 📥 Installation
 
 1. Clone the repository:
